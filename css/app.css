@@ -17,5 +17,24 @@ body {
 }
 
 .heading {
-  font: 600 2.25rem/1 'Nunito', sans-serif;
+  width: 18.25rem;
+  border-right: 3px solid black;
+  font: 600 2.25rem/1 'Nunito', sans-serif; 
+  overflow: hidden;
+  white-space: nowrap;
+  animation: 
+    typewriter 2s steps(16, end), 
+    blink-caret .5s infinite alternate;
+}
+
+@keyframes typewriter {
+  from {
+    width: 0;
+  }
+}
+
+@keyframes blink-caret {
+  50% {
+    border-color: transparent;
+  }
 }
