@@ -3,3 +3,19 @@
   margin: 0;
   padding: 0;
 }
+
+html,
+body {
+  height: 100%;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.heading {
+  font: 600 2.25rem/1 'Nunito', sans-serif;
+}
