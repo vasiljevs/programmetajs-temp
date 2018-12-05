@@ -1,6 +1,6 @@
-## [programmetajs.lv](https://programmetajs.lv) temporary
+# [programmetajs.lv](https://programmetajs.lv) temporary
 
-![Repository: programmetajs-temp](IMAGE.gif)
+![Repository: programmetajs-temp](README.gif)
 
 ## Description
 A temporary web page for [programmetajs.lv](https://programmetajs.lv)
